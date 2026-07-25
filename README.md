@@ -1,8 +1,8 @@
 # Rodrigo Garza García
 
-Strategy, public affairs and data analytics professional with more than 10 years of experience in strategic planning, public administration, performance evaluation and executive reporting.
+International affairs, public administration and data analytics professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, performance evaluation and executive reporting.
 
-I combine business and institutional experience with Python, SQL and data analysis to transform complex information into actionable recommendations.
+I combine an international and public-sector perspective with business analysis, Python, SQL and data visualization to transform complex information into actionable recommendations for public and private decision-makers.
 
 ## Featured projects
 

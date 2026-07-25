@@ -1,3 +1,9 @@
+# Rodrigo Garza García
+
+Strategy, public affairs and data analytics professional with more than 10 years of experience in strategic planning, public administration, performance evaluation and executive reporting.
+
+I combine business and institutional experience with Python, SQL and data analysis to transform complex information into actionable recommendations.
+
 ## Featured projects
 
 ### Urban Mobility and Economic Analysis in Latin America

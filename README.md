@@ -1,8 +1,16 @@
 # Rodrigo Garza García
 
-International affairs, public administration and data analytics professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, performance evaluation and executive reporting.
+International affairs, public administration and data analytics professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, KPI development, performance evaluation and executive reporting.
 
-I combine an international and public-sector perspective with business analysis, Python, SQL and data visualization to transform complex information into actionable recommendations for public and private decision-makers.
+I combine an international and public-sector perspective with business analysis and analytical tools—including Excel, Google Sheets, SQL, Python, Pandas and data visualization—to transform complex information into actionable recommendations for public and private decision-makers.
+
+## Core strengths
+
+- Strategic planning and public policy
+- Institutional coordination and stakeholder management
+- KPI development and performance evaluation
+- Executive reporting and communication
+- Business analysis and data visualization
 
 ## Featured projects
 

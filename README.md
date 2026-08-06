@@ -30,7 +30,7 @@ Analyzed the conversion funnel and D7, D14, D21 and D28 retention across ten Lat
 
 **Skills:** SQL, CTEs, funnel analysis, cohort analysis, retention analysis and data validation.
 
-[View project](https://docs.google.com/spreadsheets/d/1j0Ln3y3g58qErGPMvOTCVIhawGD_T5hNhAE8IP0xCd0/edit?usp=drive_link)
+[[View project](https://docs.google.com/spreadsheets/d/1j0Ln3y3g58qErGPMvOTCVIhawGD_T5hNhAE8IP0xCd0/edit?usp=drive_link)](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)
 
 ---
 

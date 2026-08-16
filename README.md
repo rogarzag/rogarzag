@@ -14,6 +14,14 @@ I combine an international and public-sector perspective with business analysis 
 
 ## Featured projects
 
+### ConnectaTel Customer Usage & Segmentation Analysis
+
+Analyzed telecom customer behavior using Python and Pandas. Most customers were in the Medium Usage segment, highlighting opportunities to improve retention, Premium adoption, and loyalty among high-usage customers.
+
+**Skills:** Python, Pandas, EDA, Customer Segmentation, Descriptive Statistics, Matplotlib and Seaborn.
+
+[View project](https://github.com/rogarzag/connectatel-customer-usage-analysis)
+
 ### Urban Mobility and Economic Analysis in Latin America
 
 Analyzed 2024 traffic and economic data from 15 Latin American cities. The project found no clear relationship between GDP per capita and congestion and identified Bogotá as a priority for transportation investment.

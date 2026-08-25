@@ -14,6 +14,14 @@ I combine an international and public-sector perspective with business analysis 
 
 ## Featured projects
 
+### NovaRetail+ Customer Behavior and Revenue Drivers
+
+Analyzed customer behavior across 15,000 e-commerce customers using correlation methods. Purchase frequency showed the strongest association with annual revenue, while Premium customers generated higher average revenue per customer despite representing a smaller share of the customer base.
+
+**Skills:** Python, Pandas, EDA, Correlation Analysis, Pearson, Spearman, Point-Biserial Correlation, Cramér's V, Matplotlib and Seaborn.
+
+[View project](https://github.com/rogarzag/novaretail-customer-behavior)
+
 ### ConnectaTel Customer Usage & Segmentation Analysis
 
 Analyzed telecom customer behavior using Python and Pandas. Most customers were in the Medium Usage segment, highlighting opportunities to improve retention, Premium adoption, and loyalty among high-usage customers.

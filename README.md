@@ -1,18 +1,33 @@
 # Rodrigo Garza García
 
-International affairs, public administration and data analytics professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, KPI development, performance evaluation and executive reporting.
+International affairs, public administration and business analysis professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, KPI development, performance evaluation and executive reporting.
 
-I combine an international and public-sector perspective with business analysis and analytical tools—including Excel, Google Sheets, SQL, Python, Pandas and data visualization—to transform complex information into actionable recommendations for public and private decision-makers.
+I combine strategic and public-sector experience with data analytics—including Excel, Google Sheets, SQL, Python and statistical analysis—to transform complex information into actionable insights and support evidence-based decision-making.
 
 ## Core strengths
 
-- Strategic planning and public policy
+- Strategic planning and business analysis
 - Institutional coordination and stakeholder management
 - KPI development and performance evaluation
-- Executive reporting and communication
-- Business analysis and data visualization
+- Executive reporting and data-driven decision-making
+- Statistical analysis and hypothesis testing
+- Customer behavior, segmentation and retention analysis
+
+## Analytical toolkit
+
+**Tools:** Excel, Google Sheets, SQL, Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
+
+**Methods:** EDA, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, retention analysis and financial performance analysis. 
 
 ## Featured projects
+
+### A/B Landing Page Experiment
+
+Evaluated two landing page versions using hypothesis testing. Page B showed a higher conversion rate and higher average spending among converted users, while traffic-source effects were statistically significant but very weak.
+
+**Skills:** Python, Pandas, A/B Testing, Hypothesis Testing, Welch's t-test, Z-test, Chi-square, Cramér's V.
+
+[View project](https://github.com/rogarzag/ab-landing-page-experiment)
 
 ### NovaRetail+ Customer Behavior and Revenue Drivers
 

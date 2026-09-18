@@ -1,8 +1,8 @@
 # Rodrigo Garza García
 
-International affairs, public administration and business analysis professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, KPI development, performance evaluation and executive reporting.
+International affairs, public affairs and business analysis professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, stakeholder management, KPI development, performance evaluation and executive reporting.
 
-I combine strategic and public-sector experience with data analytics—including Excel, Google Sheets, SQL, Python and statistical analysis—to transform complex information into actionable insights and support evidence-based decision-making.
+I combine strategic and public-sector experience with data analytics—including Excel, Google Sheets, SQL, Python, Tableau and statistical analysis—to transform complex information into actionable insights and support evidence-based decision-making.
 
 ## Core strengths
 
@@ -15,11 +15,19 @@ I combine strategic and public-sector experience with data analytics—including
 
 ## Analytical toolkit
 
-**Tools:** Excel, Google Sheets, SQL, Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
+**Tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
 
 **Methods:** EDA, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, retention analysis and financial performance analysis. 
 
 ## Featured projects
+
+### Andes Retail | Commercial Performance Dashboard
+
+Analyzed 2024–2025 commercial performance through an interactive Tableau dashboard covering revenue, margin, orders, customer segments, product categories, geography and seasonality. Revenue declined 6.8% in 2025, while Home moved from the lowest-revenue category in 2024 to the highest in 2025.
+
+**Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Dashboard Design, Commercial Performance Analysis, SCQA Communication.
+
+[View project](https://github.com/rogarzag/andes-retail-commercial-performance)
 
 ### A/B Landing Page Experiment
 

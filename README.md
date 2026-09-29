@@ -21,6 +21,14 @@ I combine strategic and public-sector experience with data analytics—including
 
 ## Featured projects
 
+### Andes Capital | Real Estate Analysis
+
+Analyzed 2023–2024 real estate sales performance through an interactive Tableau story covering executive KPIs, property types, sales channels, customer segments, geography, time trends, and customer cohorts. Andes Capital generated $6.01B in revenue from 8,500 sales, with Brokers accounting for approximately 73% of total revenue and First-Time Buyers for approximately 63%.
+
+**Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Cohort Analysis, LOD Expressions, Dashboard Design, Data Storytelling.
+
+[View project](https://github.com/rogarzag/andes-capital-real-estate-analysis)
+
 ### Andes Retail | Commercial Performance Dashboard
 
 Analyzed 2024–2025 commercial performance through an interactive Tableau dashboard covering revenue, margin, orders, customer segments, product categories, geography and seasonality. Revenue declined 6.8% in 2025, while Home moved from the lowest-revenue category in 2024 to the highest in 2025.
@@ -28,14 +36,6 @@ Analyzed 2024–2025 commercial performance through an interactive Tableau dashb
 **Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Dashboard Design, Commercial Performance Analysis, SCQA Communication.
 
 [View project](https://github.com/rogarzag/andes-retail-commercial-performance)
-
-### Andes Capital | Real Estate Analysis
-
-Analyzed 2023–2024 real estate sales performance through an interactive Tableau story covering executive KPIs, property types, sales channels, customer segments, geography, time trends, and customer cohorts. Andes Capital generated **$6.01B in revenue from 8,500 sales**, with Brokers accounting for approximately **73% of total revenue** and First-Time Buyers for approximately **63%**.
-
-**Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Cohort Analysis, LOD Expressions, Dashboard Design, Data Storytelling.
-
-[View project](https://github.com/rogarzag/andes-capital-real-estate-analysis)
 
 ### A/B Landing Page Experiment
 

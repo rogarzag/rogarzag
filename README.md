@@ -21,6 +21,14 @@ I combine strategic and public-sector experience with data analytics—including
 
 ## Featured projects
 
+### RappiPlus | Business Performance Analysis
+
+Conducted an end-to-end business performance analysis combining Python, SQL, statistical testing and Tableau. The project evaluated data quality, profitability, product performance, conversion, retention and a checkout A/B test. The adjusted operating view reported $9.64M in revenue and $5.78M in product-level profit, while the funnel reached 80.04% final conversion and the checkout experiment showed no statistically significant improvement.
+
+**Skills:** Python, Pandas, SQL, Tableau, Business Analysis, KPI Analysis, Data Cleaning, Funnel Analysis, Cohort Analysis, A/B Testing, Hypothesis Testing, Dashboard Design, Data Storytelling.
+
+[View project](https://github.com/rogarzag/rappiplus-business-performance-analysis)
+
 ### Andes Capital | Real Estate Analysis
 
 Analyzed 2023–2024 real estate sales performance through an interactive Tableau story covering executive KPIs, property types, sales channels, customer segments, geography, time trends, and customer cohorts. Andes Capital generated $6.01B in revenue from 8,500 sales, with Brokers accounting for approximately 73% of total revenue and First-Time Buyers for approximately 63%.

@@ -23,37 +23,37 @@ I combine strategic and public-sector experience with data analytics—including
 
 ## Featured projects
 
-Start with these three projects for a concise view of my business analysis work. Each README connects the business question with evidence, decision implications, recommended actions, and analytical limitations. Recommendations are proposals, not measured business outcomes.
+Three projects showing how I connect business questions, data analysis, and practical recommendations.
 
 ### RappiPlus | Business Performance Analysis
 
-Conducted an end-to-end business performance analysis combining Python, SQL, statistical testing and Tableau. The project evaluated data quality, profitability, product performance, conversion, retention and a checkout A/B test. The adjusted operating view reported $9.64M in revenue and $5.78M in product-level profit, while the event-count purchase-to-first-visit ratio was 80.04% and the checkout experiment showed no statistically significant improvement. Product-level profit covers orders with known product costs and is before marketing and other operating expenses.
+Analyzed sales, product profit, checkout conversion, customer retention, and a checkout A/B test using Python, SQL, and Tableau. The adjusted view reported **$9.64M in revenue**, while the experiment found **no statistically significant conversion improvement**.
 
-**Decision focus:** validate material data-quality issues and checkout tracking before using the results to support commercial changes or a redesign rollout.
+**Business takeaway:** review the checkout-to-payment drop and compare product sales with profit when setting priorities. The experiment does not justify presenting the redesign as a proven improvement.
 
-**Skills:** Python, Pandas, SQL, Tableau, Business Analysis, KPI Analysis, Data Cleaning, Funnel Analysis, Cohort Analysis, A/B Testing, Hypothesis Testing, Dashboard Design, Data Storytelling.
+**Tools:** Python · SQL · Tableau · Statistical testing
 
-[View project](https://github.com/rogarzag/rappiplus-business-performance-analysis)
+[View analysis, findings, and recommendations](https://github.com/rogarzag/rappiplus-business-performance-analysis)
 
 ### Andes Capital | Real Estate Analysis
 
-Analyzed 2023–2024 real estate sales performance through an interactive Tableau story covering executive KPIs, property types, sales channels, customer segments, geography, time trends, and customer cohorts. Andes Capital generated $6.01B in revenue from 8,500 sales, with Brokers accounting for approximately 73% of total revenue and First-Time Buyers for approximately 63%.
+Built a Tableau story to examine revenue, property types, sales channels, customer segments, and repeat purchasing. The analysis covered **$6.01B in revenue and 8,500 sales**, with Brokers generating approximately **73% of revenue**.
 
-**Decision focus:** evaluate channel economics and validate cohort comparisons before changing acquisition or channel investment.
+**Business takeaway:** prioritize monitoring of the Broker channel and First-Time Buyers, and distinguish property types that lead revenue, ticket, or sales volume when setting commercial priorities.
 
-**Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Cohort Analysis, LOD Expressions, Dashboard Design, Data Storytelling.
+**Tools:** Tableau · KPI analysis · Cohort analysis · Data storytelling
 
-[View project](https://github.com/rogarzag/andes-capital-real-estate-analysis)
+[View analysis, findings, and recommendations](https://github.com/rogarzag/andes-capital-real-estate-analysis)
 
 ### Andes Retail | Commercial Performance Dashboard
 
-Analyzed 2024–2025 commercial performance through an interactive Tableau dashboard covering revenue, margin, orders, customer segments, product categories, geography and seasonality. Revenue declined 6.8% in 2025, while Home moved from the lowest-revenue category in 2024 to the highest in 2025.
+Compared 2024–2025 sales through an interactive Tableau dashboard. Revenue declined **6.8% in 2025**, alongside fewer orders and lower average order value, while Home moved from the lowest-revenue category to the highest.
 
-**Decision focus:** investigate the combined decline in order volume and average order value, then assess category changes before reallocating resources.
+**Business takeaway:** investigate the decline through order volume and average order value, and review category and monthly performance before changing commercial priorities.
 
-**Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Dashboard Design, Commercial Performance Analysis, SCQA Communication.
+**Tools:** Tableau · KPI analysis · Dashboard design · Business communication
 
-[View project](https://github.com/rogarzag/andes-retail-commercial-performance)
+[View analysis, findings, and recommendations](https://github.com/rogarzag/andes-retail-commercial-performance)
 
 ## Additional projects
 

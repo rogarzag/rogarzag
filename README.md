@@ -15,15 +15,21 @@ I combine strategic and public-sector experience with data analytics—including
 
 ## Analytical toolkit
 
-**Tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
+**Data tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
+
+**Business analysis & documentation:** Jira, Confluence and Lucidchart.
 
 **Methods:** EDA, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, retention analysis and financial performance analysis. 
 
 ## Featured projects
 
+Start with these three projects for a concise view of my business analysis work. Each README connects the business question with evidence, decision implications, recommended actions, and analytical limitations. Recommendations are proposals, not measured business outcomes.
+
 ### RappiPlus | Business Performance Analysis
 
-Conducted an end-to-end business performance analysis combining Python, SQL, statistical testing and Tableau. The project evaluated data quality, profitability, product performance, conversion, retention and a checkout A/B test. The adjusted operating view reported $9.64M in revenue and $5.78M in product-level profit, while the funnel reached 80.04% final conversion and the checkout experiment showed no statistically significant improvement.
+Conducted an end-to-end business performance analysis combining Python, SQL, statistical testing and Tableau. The project evaluated data quality, profitability, product performance, conversion, retention and a checkout A/B test. The adjusted operating view reported $9.64M in revenue and $5.78M in product-level profit, while the event-count purchase-to-first-visit ratio was 80.04% and the checkout experiment showed no statistically significant improvement. Product-level profit covers orders with known product costs and is before marketing and other operating expenses.
+
+**Decision focus:** validate material data-quality issues and checkout tracking before using the results to support commercial changes or a redesign rollout.
 
 **Skills:** Python, Pandas, SQL, Tableau, Business Analysis, KPI Analysis, Data Cleaning, Funnel Analysis, Cohort Analysis, A/B Testing, Hypothesis Testing, Dashboard Design, Data Storytelling.
 
@@ -33,6 +39,8 @@ Conducted an end-to-end business performance analysis combining Python, SQL, sta
 
 Analyzed 2023–2024 real estate sales performance through an interactive Tableau story covering executive KPIs, property types, sales channels, customer segments, geography, time trends, and customer cohorts. Andes Capital generated $6.01B in revenue from 8,500 sales, with Brokers accounting for approximately 73% of total revenue and First-Time Buyers for approximately 63%.
 
+**Decision focus:** evaluate channel economics and validate cohort comparisons before changing acquisition or channel investment.
+
 **Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Cohort Analysis, LOD Expressions, Dashboard Design, Data Storytelling.
 
 [View project](https://github.com/rogarzag/andes-capital-real-estate-analysis)
@@ -41,9 +49,13 @@ Analyzed 2023–2024 real estate sales performance through an interactive Tablea
 
 Analyzed 2024–2025 commercial performance through an interactive Tableau dashboard covering revenue, margin, orders, customer segments, product categories, geography and seasonality. Revenue declined 6.8% in 2025, while Home moved from the lowest-revenue category in 2024 to the highest in 2025.
 
+**Decision focus:** investigate the combined decline in order volume and average order value, then assess category changes before reallocating resources.
+
 **Skills:** Tableau, Business Analysis, Data Visualization, KPI Analysis, Dashboard Design, Commercial Performance Analysis, SCQA Communication.
 
 [View project](https://github.com/rogarzag/andes-retail-commercial-performance)
+
+## Additional projects
 
 ### A/B Landing Page Experiment
 
@@ -85,7 +97,7 @@ Analyzed the conversion funnel and D7, D14, D21 and D28 retention across ten Lat
 
 **Skills:** SQL, CTEs, funnel analysis, cohort analysis, retention analysis and data validation.
 
-[[View project](https://docs.google.com/spreadsheets/d/1j0Ln3y3g58qErGPMvOTCVIhawGD_T5hNhAE8IP0xCd0/edit?usp=drive_link)](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)
+[View project](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)
 
 ---
 

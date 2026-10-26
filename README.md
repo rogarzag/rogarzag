@@ -1,25 +1,33 @@
 # Rodrigo Garza García
 
-International affairs, public affairs and business analysis professional with more than 10 years of experience in strategic planning, public policy, institutional coordination, stakeholder management, KPI development, performance evaluation and executive reporting.
+**Public & International Affairs | Business Analyst | SQL · Python · Tableau | Jira · Confluence · Lucidchart**
 
-I combine strategic and public-sector experience with data analytics—including Excel, Google Sheets, SQL, Python, Tableau and statistical analysis—to transform complex information into actionable insights and support evidence-based decision-making.
+I am a public and international affairs professional with more than 10 years of experience in strategic planning, institutional coordination, stakeholder management, performance monitoring, and executive reporting. I complement this background with practical training in business analysis and data analytics.
+
+At Mexico's Ministry of Foreign Affairs, I progressed through advisory, deputy director, and director roles in the Office of the Foreign Minister, and also served as acting head of a General Directorate. My work connected institutional priorities with information from substantive and administrative teams: coordinating planning and reporting, monitoring indicators, supporting audit responses, and following up on requests from senior leadership and legislative bodies. This experience developed my ability to bring different stakeholders together, organize complex information, and communicate findings for decision-making.
+
+Earlier, I worked in international affairs for the Government of the State of Mexico and completed an internship in the Political Section of the Mexican Embassy in Brazil. I hold a degree in International Relations and a master's degree in Public Administration.
+
+I have since completed the TripleTen Data Analyst Bootcamp and am continuing my development through IBM's Business Analyst program. My training includes understanding business needs, documenting requirements, mapping processes, working with stakeholders, and evaluating solutions. Through coursework and practical exercises, I have also incorporated Jira, Confluence, and Lucidchart for documentation, collaboration, and process mapping.
+
+My portfolio applies Python, SQL, Tableau, Excel, and Google Sheets to questions about commercial performance, profitability, conversion, and retention. I aim to connect business needs with clear analysis and practical recommendations, bringing my experience in public and international affairs to business analysis and roles that require coordination across teams.
 
 ## Core strengths
 
-- Strategic planning and business analysis
-- Institutional coordination and stakeholder management
-- KPI development and performance evaluation
-- Executive reporting and data-driven decision-making
-- Statistical analysis and hypothesis testing
-- Customer behavior, segmentation and retention analysis
+- Public and international affairs
+- Strategic planning and institutional coordination
+- Stakeholder management and collaboration across teams
+- KPI monitoring, performance evaluation, and executive reporting
+- Analytical thinking, problem solving, and clear communication
+- Business analysis training: needs, requirements, processes, and solution evaluation
 
 ## Analytical toolkit
 
-**Data tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib and Seaborn.
+**Data tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, and Seaborn.
 
-**Business analysis & documentation:** Jira, Confluence and Lucidchart.
+**Business analysis & documentation:** Jira, Confluence, and Lucidchart, applied through coursework and practical exercises.
 
-**Methods:** EDA, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, retention analysis and financial performance analysis. 
+**Methods used in portfolio projects:** exploratory data analysis, data cleaning, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, and financial performance analysis.
 
 ## Featured projects
 

@@ -29,7 +29,17 @@ My portfolio applies Python, SQL, Tableau, Excel, and Google Sheets to questions
 
 **Methods used in portfolio projects:** exploratory data analysis, data cleaning, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, and financial performance analysis.
 
-## Featured projects
+## Business Analysis Projects
+
+### News Channel Program | UML Use Case Modeling
+
+Completed as part of IBM's Business Analyst Professional Certificate. Identified five actors and six use cases for a live news broadcasting system, documented actor responsibilities, and mapped their relationships in a UML use case diagram.
+
+**Tools:** Lucidchart · UML · Use Case Analysis · Requirements Documentation
+
+[View project documentation and diagram](https://github.com/rogarzag/rogarzag/tree/main/business-analysis-use-case-modeling) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94)
+
+## Data Analytics Projects
 
 Three projects showing how I connect business questions, data analysis, and practical recommendations.
 

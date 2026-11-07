@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">News channel program — UML use case diagram</title>
+  <desc id="desc">Five actors outside the News channel program system boundary connect to six use cases inside it.</desc>
+  <defs><style>
+    .heading{font:700 28px Arial,sans-serif;fill:#24558a}
+    .boundary{fill:#fff;stroke:#64748b;stroke-width:2}
+    .system-title{font:700 24px Arial,sans-serif;fill:#24558a}
+    .actor{stroke:#2563eb;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}
+    .actor-label{font:16px Arial,sans-serif;fill:#263445;text-anchor:middle}
+    .usecase{fill:#eef2f7;stroke:#64748b;stroke-width:2}
+    .uc-label{font:17px Arial,sans-serif;fill:#263445;text-anchor:middle}
+    .association{fill:none;stroke:#0f9f91;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round}
+  </style></defs>
+  <rect width="1200" height="820" fill="#fff"/>
+  <text x="600" y="42" text-anchor="middle" class="heading">UML Use Case Diagram</text>
+  <rect x="300" y="105" width="600" height="650" rx="4" class="boundary"/>
+  <text x="600" y="145" text-anchor="middle" class="system-title">News channel program</text>
+  <g class="association">
+    <path d="M175 218 H300 V230 H375"/>
+    <path d="M175 218 H280 V375 H575"/>
+    <path d="M1025 218 H900 V230 H825"/>
+    <path d="M1025 218 H920 V375 H625"/>
+    <path d="M175 535 H375"/>
+    <path d="M175 535 H280 V680 H375"/>
+    <path d="M1025 470 H825"/>
+    <path d="M1025 680 H825"/>
+  </g>
+  <ellipse cx="500" cy="230" rx="125" ry="48" class="usecase"/>
+  <text x="500" y="224" class="uc-label"><tspan x="500">Create news</tspan><tspan x="500" dy="22">segment</tspan></text>
+  <ellipse cx="700" cy="230" rx="125" ry="48" class="usecase"/>
+  <text x="700" y="236" class="uc-label">Report news live</text>
+  <ellipse cx="500" cy="375" rx="125" ry="48" class="usecase"/>
+  <text x="500" y="381" class="uc-label">View program</text>
+  <ellipse cx="700" cy="375" rx="125" ry="48" class="usecase"/>
+  <text x="700" y="369" class="uc-label"><tspan x="700">Manage broadcast</tspan><tspan x="700" dy="22">equipment</tspan></text>
+  <ellipse cx="500" cy="680" rx="125" ry="48" class="usecase"/>
+  <text x="500" y="674" class="uc-label"><tspan x="500">Interact via</tspan><tspan x="500" dy="22">social media</tspan></text>
+  <ellipse cx="700" cy="680" rx="125" ry="48" class="usecase"/>
+  <text x="700" y="686" class="uc-label">Provide advertisement</text>
+  <g class="actor"><circle cx="125" cy="165" r="19"/><path d="M125 184 V255 M82 205 H168 M125 255 L85 305 M125 255 L165 305"/></g>
+  <text x="125" y="332" class="actor-label">News producer</text>
+  <g class="actor"><circle cx="1075" cy="165" r="19"/><path d="M1075 184 V255 M1032 205 H1118 M1075 255 L1035 305 M1075 255 L1115 305"/></g>
+  <text x="1075" y="332" class="actor-label">Reporter</text>
+  <g class="actor"><circle cx="125" cy="470" r="19"/><path d="M125 489 V560 M82 510 H168 M125 560 L85 610 M125 560 L165 610"/></g>
+  <text x="125" y="637" class="actor-label">Viewer</text>
+  <g class="actor"><circle cx="1075" cy="430" r="19"/><path d="M1075 449 V520 M1032 470 H1118 M1075 520 L1035 570 M1075 520 L1115 570"/></g>
+  <text x="1075" y="597" class="actor-label">Technical team</text>
+  <g class="actor"><circle cx="1075" cy="640" r="19"/><path d="M1075 659 V730 M1032 680 H1118 M1075 730 L1035 780 M1075 730 L1115 780"/></g>
+  <text x="1075" y="810" class="actor-label">Advertiser</text>
+</svg>

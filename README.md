@@ -31,6 +31,15 @@ My portfolio applies Python, SQL, Tableau, Excel, and Google Sheets to questions
 
 ## Business Analysis Projects
 
+### QuickService Delivery | Order Management Process Mapping
+
+Mapped the end-to-end order management process for a food and grocery delivery company, from order placement and validation through payment, preparation, and final fulfillment. Identified five participants, key handoffs, decision points, and exception paths, documenting the process in a structured case study and an original flowchart.
+
+**Tools:** Lucidchart · Process Mapping · Flowchart Design · Process Analysis · Stakeholder & Responsibility Mapping
+
+[View project repository](https://github.com/rogarzag/business-process-mapping-quickservice-delivery) · [View original flowchart](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/diagrams/QuickService%20Delivery%20%E2%80%93%20Order%20Management%20Process%20Flowchart.png) · [View case study (PDF)](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/docs/QuickService_Business_Process_Analysis_Rodrigo_Garza.pdf) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/36c1ae40-1a47-4819-805f-63889a5205e3/edit?viewport_loc=-957%2C873%2C2289%2C1675%2C0_0&invitationId=inv_33bdba97-f296-4e62-a267-c171659295b9)
+
+### News Channel Program | UML Use Case Modeling
 ### News Channel Program | UML Use Case Modeling
 
 Completed as part of IBM's Business Analyst Professional Certificate. Identified five actors and six use cases for a live news broadcasting system, documented actor responsibilities, and mapped their relationships in a UML use case diagram.

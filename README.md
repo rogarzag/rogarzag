@@ -130,7 +130,7 @@ Compared revenue, costs, gross profit, margins and marketing ROI across six coun
 
 **Skills:** SQL, aggregation, KPI calculation, financial analysis, ROI analysis and executive reporting.
 
-[View project](https://docs.google.com/spreadsheets/d/1zbW1QQRTN6DHKjlaQLtbhdRJkuep0zOcQLt1rfbU6tQ/edit?usp=drive_link)
+[View project repository](https://github.com/rogarzag/financial-performance-sql-analysis) · [View Google Sheets analysis](https://docs.google.com/spreadsheets/d/1zbW1QQRTN6DHKjlaQLtbhdRJkuep0zOcQLt1rfbU6tQ/edit?usp=drive_link)
 
 ---
 

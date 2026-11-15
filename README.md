@@ -15,22 +15,14 @@ I complement this experience with applied Business Analysis and Data Analytics c
 
 In November 2026, I earned micro1's **AI Interview Certification — Outstanding Performance**, recognizing 12 skills across geopolitical risk, national security, international relations, data quality, process optimization, collaboration, and communication.
 
-## Core strengths
+## What this portfolio demonstrates
 
-- Public and international affairs
-- Strategic planning and institutional coordination
-- Stakeholder management and collaboration across teams
-- KPI monitoring, performance evaluation, and executive reporting
-- Analytical thinking, problem solving, and clear communication
-- Business analysis training: needs, requirements, processes, and solution evaluation
+- **Business Analysis:** requirements, process mapping, use cases, stakeholder analysis, and solution evaluation.
+- **Data Analysis:** SQL, Python, Excel, Google Sheets, Tableau, statistical testing, funnels, cohorts, and KPI analysis.
+- **Decision support:** translating findings into clear business takeaways, recommendations, and executive-ready outputs.
+- **Cross-functional perspective:** connecting analytical work with strategy, operations, stakeholder coordination, and institutional context.
 
-## Analytical toolkit
-
-**Data tools:** Excel, Google Sheets, SQL, Python, Tableau, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, and Seaborn.
-
-**Business analysis & documentation:** Jira, Confluence, and Lucidchart, applied through coursework and practical exercises.
-
-**Methods used in portfolio projects:** exploratory data analysis, data cleaning, KPI analysis, A/B testing, hypothesis testing, correlation analysis, funnel and cohort analysis, customer segmentation, and financial performance analysis.
+**Tools:** SQL · Python · Excel · Google Sheets · Tableau · Jira · Confluence · Lucidchart
 
 ## Business Analysis Projects
 

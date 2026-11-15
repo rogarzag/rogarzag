@@ -1,16 +1,19 @@
 # Rodrigo Garza García
 
-**Public & International Affairs | Business Analyst | SQL · Python · Tableau | Jira · Confluence · Lucidchart**
+**Public & International Affairs | Business Analyst**  
+*Strategic Analysis · Geopolitics · Stakeholder Engagement*
 
-I am a public and international affairs professional with more than 10 years of experience in strategic planning, institutional coordination, stakeholder management, performance monitoring, and executive reporting. I complement this background with practical training in business analysis and data analytics.
+[Professional Website](https://rogarzag.github.io/) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Tableau Public](https://public.tableau.com/app/profile/rodrigo.garza.garcia)
 
-At Mexico's Ministry of Foreign Affairs, I progressed through advisory, deputy director, and director roles in the Office of the Foreign Minister, and also served as acting head of a General Directorate. My work connected institutional priorities with information from substantive and administrative teams: coordinating planning and reporting, monitoring indicators, supporting audit responses, and following up on requests from senior leadership and legislative bodies. This experience developed my ability to bring different stakeholders together, organize complex information, and communicate findings for decision-making.
+This GitHub profile is the evidence layer of my professional work: selected Business Analysis and Data Analytics projects that show how I structure problems, document processes, analyze data, and translate findings into decision-oriented recommendations.
 
-Earlier, I worked in international affairs for the Government of the State of Mexico and completed an internship in the Political Section of the Mexican Embassy in Brazil. I hold a degree in International Relations and a master's degree in Public Administration.
+My background includes more than 10 years in public and international affairs, including over seven years in the **Office of the Chief of Staff to Mexico's Secretary of Foreign Affairs**, where I progressed from Advisor to Director and served as Acting Director General. My work covered strategic coordination, institutional reporting, stakeholder engagement, geopolitical and international analysis, legislative liaison, and national security-related coordination.
 
-I have since completed the TripleTen Data Analyst Bootcamp and am continuing my development through IBM's Business Analyst program. My training includes understanding business needs, documenting requirements, mapping processes, working with stakeholders, and evaluating solutions. Through coursework and practical exercises, I have also incorporated Jira, Confluence, and Lucidchart for documentation, collaboration, and process mapping.
+Earlier, I worked in international affairs for the Government of the State of Mexico and completed a professional internship in the **Local Government Liaison Area** of the Embassy of Mexico in Brazil. I hold a Bachelor's Degree in International Relations and a Master's Degree in Public Administration.
 
-My portfolio applies Python, SQL, Tableau, Excel, and Google Sheets to questions about commercial performance, profitability, conversion, and retention. I aim to connect business needs with clear analysis and practical recommendations, bringing my experience in public and international affairs to business analysis and roles that require coordination across teams.
+I complement this experience with applied Business Analysis and Data Analytics capabilities through TripleTen's Data Analyst Bootcamp and IBM's Business Analyst Professional Certificate. My toolkit includes SQL, Python, Excel, Tableau, Jira, Confluence, and Lucidchart.
+
+In November 2026, I earned micro1's **AI Interview Certification — Outstanding Performance**, recognizing 12 skills across geopolitical risk, national security, international relations, data quality, process optimization, collaboration, and communication.
 
 ## Core strengths
 
@@ -53,9 +56,9 @@ Three projects showing how I connect business questions, data analysis, and prac
 
 ### RappiPlus | Business Performance Analysis
 
-Analyzed sales, product profit, checkout conversion, customer retention, and a checkout A/B test using Python, SQL, and Tableau. The adjusted view reported **$9.64M in revenue**, while the experiment found **no statistically significant conversion improvement**.
+Analyzed sales, profitability, conversion, retention, and a checkout A/B test using Python, SQL, statistical testing, and Tableau. Extreme-quantity records accounted for **81.45% of reported revenue**, so raw and adjusted views were assessed separately. The checkout experiment showed **no statistically significant improvement** (p = 0.4161).
 
-**Business takeaway:** review the checkout-to-payment drop and compare product sales with profit when setting priorities. The experiment does not justify presenting the redesign as a proven improvement.
+**Business takeaway:** retain the existing checkout version, investigate friction between checkout and payment, and validate material data-quality issues before using results to support commercial changes.
 
 **Tools:** Python · SQL · Tableau · Statistical testing
 
@@ -119,7 +122,9 @@ Analyzed 2024 traffic and economic data from 15 Latin American cities. The proje
 
 ### MercadoLibre Funnel and Retention Analysis
 
-Analyzed the conversion funnel and D7, D14, D21 and D28 retention across ten Latin American countries. The main drop occurred between product selection and cart addition, while retention declined sharply after the first week.
+Used SQL to assess the conversion funnel and D7, D14, D21, and D28 retention across ten Latin American countries. The largest funnel loss was a **65.89-percentage-point drop** from product selection (76.90%) to add-to-cart (11.01%). In the January 1–6 cohort, retention declined from **86.2% at D7 to 56.2% at D14**.
+
+**Business takeaway:** investigate cart-add friction and prioritize early-retention actions.
 
 **Skills:** SQL, CTEs, funnel analysis, cohort analysis, retention analysis and data validation.
 

@@ -140,7 +140,7 @@ Analyzed Walmart’s 2012 weekly sales using sales per square meter and departme
 
 **Skills:** Google Sheets, data integration, pivot tables, KPI development, dashboards and business analysis.
 
-[View project](https://docs.google.com/spreadsheets/d/15P8TlKwUUgREb7f8LxmbPWThjBbRs80QfFafzBWDNqs/edit?usp=drive_link)
+[View project repository](https://github.com/rogarzag/walmart-sales-space-performance) · [View Google Sheets analysis](https://docs.google.com/spreadsheets/d/15P8TlKwUUgREb7f8LxmbPWThjBbRs80QfFafzBWDNqs/edit?usp=drive_link)
 
 ---
 

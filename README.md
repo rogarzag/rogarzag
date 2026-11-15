@@ -28,7 +28,9 @@ In November 2026, I earned micro1's **AI Interview Certification — Outstanding
 
 ### QuickService Delivery | Order Management Process Mapping
 
-Mapped the end-to-end order management process for a food and grocery delivery company, from order placement and validation through payment, preparation, and final fulfillment. Identified five participants, key handoffs, decision points, and exception paths, documenting the process in a structured case study and an original flowchart.
+Mapped the end-to-end order management process for a food and grocery delivery company, from order placement and validation through payment, preparation, and final fulfillment.
+
+**Key output:** documented five participants, four process stages, key control points, and clearly identified exception paths where the case did not specify detailed handling rules.
 
 **Tools:** Lucidchart · Process Mapping · Flowchart Design · Process Analysis · Stakeholder & Responsibility Mapping
 
@@ -36,7 +38,9 @@ Mapped the end-to-end order management process for a food and grocery delivery c
 
 ### News Channel Program | UML Use Case Modeling
 
-Completed as part of IBM's Business Analyst Professional Certificate. Identified five actors and six use cases for a live news broadcasting system, documented actor responsibilities, and mapped their relationships in a UML use case diagram.
+Completed as part of IBM's Business Analyst Professional Certificate.
+
+**Key output:** defined the system boundary and documented five actors, six use cases, and eight actor-to-use-case associations for the live news broadcasting system.
 
 **Tools:** Lucidchart · UML · Use Case Analysis · Requirements Documentation
 
@@ -80,7 +84,9 @@ Compared 2024–2025 sales through an interactive Tableau dashboard. Revenue dec
 
 ### A/B Landing Page Experiment
 
-Evaluated two landing page versions using hypothesis testing. Page B showed a higher conversion rate and higher average spending among converted users, while traffic-source effects were statistically significant but very weak.
+Evaluated two landing page versions using hypothesis testing.
+
+**Key finding:** Page B showed a higher conversion rate and higher average spending among converted users, while traffic-source effects were statistically significant but very weak.
 
 **Skills:** Python, Pandas, A/B Testing, Hypothesis Testing, Welch's t-test, Z-test, Chi-square, Cramér's V.
 
@@ -88,7 +94,9 @@ Evaluated two landing page versions using hypothesis testing. Page B showed a hi
 
 ### NovaRetail+ Customer Behavior and Revenue Drivers
 
-Analyzed customer behavior across 15,000 e-commerce customers using correlation methods. Purchase frequency showed the strongest association with annual revenue, while Premium customers generated higher average revenue per customer despite representing a smaller share of the customer base.
+Analyzed customer behavior across 15,000 e-commerce customers using correlation methods.
+
+**Key finding:** purchase frequency showed the strongest association with annual revenue, while Premium customers generated higher average revenue per customer despite representing a smaller share of the customer base.
 
 **Skills:** Python, Pandas, EDA, Correlation Analysis, Pearson, Spearman, Point-Biserial Correlation, Cramér's V, Matplotlib and Seaborn.
 
@@ -96,7 +104,9 @@ Analyzed customer behavior across 15,000 e-commerce customers using correlation 
 
 ### ConnectaTel Customer Usage & Segmentation Analysis
 
-Analyzed telecom customer behavior using Python and Pandas. Most customers were in the Medium Usage segment, highlighting opportunities to improve retention, Premium adoption, and loyalty among high-usage customers.
+Analyzed telecom customer behavior using Python and Pandas.
+
+**Key finding:** most customers were in the Medium Usage segment, highlighting opportunities to improve retention, Premium adoption, and loyalty among high-usage customers.
 
 **Skills:** Python, Pandas, EDA, Customer Segmentation, Descriptive Statistics, Matplotlib and Seaborn.
 
@@ -104,7 +114,9 @@ Analyzed telecom customer behavior using Python and Pandas. Most customers were 
 
 ### Urban Mobility and Economic Analysis in Latin America
 
-Analyzed 2024 traffic and economic data from 15 Latin American cities. The project found no clear relationship between GDP per capita and congestion and identified Bogotá as a priority for transportation investment.
+Analyzed 2024 traffic and economic data from 15 Latin American cities.
+
+**Key finding:** the analysis found no clear relationship between GDP per capita and congestion and identified Bogotá as a priority for transportation investment.
 
 **Skills:** Python, Pandas, data cleaning, aggregation, INNER JOIN, EDA, Matplotlib and Seaborn.
 
@@ -126,7 +138,11 @@ Used SQL to assess the conversion funnel and D7, D14, D21, and D28 retention acr
 
 ### Financial Performance Analysis with SQL
 
-Compared revenue, costs, gross profit, margins and marketing ROI across six countries. The United States showed the strongest performance, while Canada and the United Kingdom presented lower marketing efficiency.
+Compared revenue, costs, gross profit, margins and marketing ROI across six countries.
+
+**Key finding:** the United States showed the strongest overall performance, while Canada and the United Kingdom presented lower marketing efficiency.
+
+**Business takeaway:** review revenue, margin, and marketing ROI together when prioritizing markets and investigate the drivers of weaker marketing efficiency.
 
 **Skills:** SQL, aggregation, KPI calculation, financial analysis, ROI analysis and executive reporting.
 
@@ -136,7 +152,11 @@ Compared revenue, costs, gross profit, margins and marketing ROI across six coun
 
 ### Walmart Sales Executive Summary
 
-Analyzed Walmart’s 2012 weekly sales using sales per square meter and department share. The project identified the most efficient departments and supported recommendations for inventory, space and budget allocation.
+Analyzed Walmart’s 2012 weekly sales using sales per square meter and department share.
+
+**Key finding:** three departments accounted for **36.43% of total sales**, showing a meaningful concentration of commercial performance.
+
+**Business takeaway:** use sales per square meter alongside total sales when reviewing inventory, space, and budget allocation.
 
 **Skills:** Google Sheets, data integration, pivot tables, KPI development, dashboards and business analysis.
 
@@ -146,7 +166,9 @@ Analyzed Walmart’s 2012 weekly sales using sales per square meter and departme
 
 ### Sales Data Cleaning and Analysis in Google Sheets
 
-Cleaned and standardized a quarterly sales dataset and created an executive summary with key commercial metrics. The analysis identified Tablet as the best-selling category, Monterrey as the leading city and November as the strongest month.
+Cleaned and standardized a quarterly sales dataset and created an executive summary with key commercial metrics.
+
+**Key finding:** Tablet was the best-selling category, Monterrey the leading city, and November the strongest month.
 
 **Skills:** Google Sheets, data cleaning, text standardization, KPI calculation, visualization and executive reporting.
 

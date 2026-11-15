@@ -44,7 +44,7 @@ Completed as part of IBM's Business Analyst Professional Certificate.
 
 **Tools:** Lucidchart · UML · Use Case Analysis · Requirements Documentation
 
-[View project repository](https://github.com/rogarzag/business-analysis-use-case-modeling) · [View original use case diagram](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/diagrams/news-channel-use-case-original.png) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94)
+[View project repository](https://github.com/rogarzag/business-analysis-use-case-modeling) · [View use case analysis (PDF)](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/docs/News_Channel_Use_Cases_LinkedIn.pdf) · [View original use case diagram](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/diagrams/news-channel-use-case-original.png) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94)
 
 ## Data Analytics Projects
 

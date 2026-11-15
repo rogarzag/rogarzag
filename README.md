@@ -172,4 +172,4 @@ Cleaned and standardized a quarterly sales dataset and created an executive summ
 
 **Skills:** Google Sheets, data cleaning, text standardization, KPI calculation, visualization and executive reporting.
 
-[View project](https://docs.google.com/spreadsheets/d/1M9tRx3VppFVSAu5MsX2jNK6GeHLqd8m2/edit?usp=drive_link&ouid=109549579990095951417&rtpof=true&sd=true)
+[View project repository](https://github.com/rogarzag/sales-data-cleaning-google-sheets) · [View Google Sheets analysis](https://docs.google.com/spreadsheets/d/1M9tRx3VppFVSAu5MsX2jNK6GeHLqd8m2/edit?usp=drive_link&ouid=109549579990095951417&rtpof=true&sd=true)

@@ -26,6 +26,16 @@ In November 2026, I earned micro1's **AI Interview Certification — Outstanding
 
 ## Business Analysis Projects
 
+### Mobi-e-rides | End-to-End Business Analysis Case Study
+
+Developed a business analysis case for a proposed peer-to-peer bicycle and e-bike rental platform in Mexico City. The project brings together business context and scope, stakeholder analysis, requirements elicitation planning, requirements prioritization and traceability, and complementary process, data, and system models.
+
+**Key deliverables:** documented requirements and analysis, a UML use case diagram, an entity relationship diagram (ERD), and an end-to-end rental process flowchart. The case is an academic portfolio exercise; user research activities are proposed, not claimed as completed, and the solution has not been implemented.
+
+**Tools & methods:** Business Analysis · Requirements Elicitation · Stakeholder Analysis · MoSCoW · Requirements Traceability · UML · ERD · Process Modeling · Lucidchart
+
+[View project repository](https://github.com/rogarzag/mobi-e-rides-business-analysis) · [View full case study (PDF)](https://github.com/rogarzag/mobi-e-rides-business-analysis/blob/main/mobi-e-rides-business-analysis.pdf)
+
 ### QuickService Delivery | Order Management Process Mapping
 
 Mapped the end-to-end order management process for a food and grocery delivery company, from order placement and validation through payment, preparation, and final fulfillment.

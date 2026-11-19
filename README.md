@@ -26,7 +26,7 @@ In November 2026, I earned micro1's **AI Interview Certification — Outstanding
 
 ## Business Analysis Projects
 
-### Mobi-e-rides | End-to-End Business Analysis Case Study
+### Mobi-e-rides | End-to-End Business Analysis
 
 Developed a business analysis case for a proposed peer-to-peer bicycle and e-bike rental platform in Mexico City. The project brings together business context and scope, stakeholder analysis, requirements elicitation planning, requirements prioritization and traceability, and complementary process, data, and system models.
 
@@ -34,7 +34,7 @@ Developed a business analysis case for a proposed peer-to-peer bicycle and e-bik
 
 **Tools & methods:** Business Analysis · Requirements Elicitation · Stakeholder Analysis · MoSCoW · Requirements Traceability · UML · ERD · Process Modeling · Lucidchart
 
-[View project repository](https://github.com/rogarzag/mobi-e-rides-business-analysis) · [View full case study (PDF)](https://github.com/rogarzag/mobi-e-rides-business-analysis/blob/main/mobi-e-rides-business-analysis.pdf)
+[Portfolio page](https://rogarzag.github.io/projects/mobi-e-rides/) · [GitHub repository](https://github.com/rogarzag/mobi-e-rides-business-analysis) · [Project report (PDF)](https://github.com/rogarzag/mobi-e-rides-business-analysis/blob/main/mobi-e-rides-business-analysis.pdf) · [Lucidchart diagrams](https://lucid.app/lucidchart/9dd2fabe-dfac-4658-9401-407912d10139/edit)
 
 ### QuickService Delivery | Order Management Process Mapping
 
@@ -44,7 +44,7 @@ Mapped the end-to-end order management process for a food and grocery delivery c
 
 **Tools:** Lucidchart · Process Mapping · Flowchart Design · Process Analysis · Stakeholder & Responsibility Mapping
 
-[View project repository](https://github.com/rogarzag/business-process-mapping-quickservice-delivery) · [View original flowchart](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/diagrams/QuickService%20Delivery%20%E2%80%93%20Order%20Management%20Process%20Flowchart.png) · [View case study (PDF)](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/docs/QuickService_Business_Process_Analysis_Rodrigo_Garza.pdf) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/36c1ae40-1a47-4819-805f-63889a5205e3/edit?viewport_loc=-957%2C873%2C2289%2C1675%2C0_0&invitationId=inv_33bdba97-f296-4e62-a267-c171659295b9)
+[Portfolio page](https://rogarzag.github.io/projects/quickservice-delivery/) · [GitHub repository](https://github.com/rogarzag/business-process-mapping-quickservice-delivery) · [Project report (PDF)](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/docs/QuickService_Business_Process_Analysis_Rodrigo_Garza.pdf) · [Lucidchart diagram](https://lucid.app/lucidchart/36c1ae40-1a47-4819-805f-63889a5205e3/edit?viewport_loc=-957%2C873%2C2289%2C1675%2C0_0&invitationId=inv_33bdba97-f296-4e62-a267-c171659295b9) · [Process flowchart (PNG)](https://github.com/rogarzag/business-process-mapping-quickservice-delivery/blob/main/diagrams/QuickService%20Delivery%20%E2%80%93%20Order%20Management%20Process%20Flowchart.png)
 
 ### News Channel Program | UML Use Case Modeling
 
@@ -54,7 +54,7 @@ Completed as part of IBM's Business Analyst Professional Certificate.
 
 **Tools:** Lucidchart · UML · Use Case Analysis · Requirements Documentation
 
-[View project repository](https://github.com/rogarzag/business-analysis-use-case-modeling) · [View use case analysis (PDF)](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/docs/News_Channel_Use_Cases_LinkedIn.pdf) · [View original use case diagram](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/diagrams/news-channel-use-case-original.png) · [Explore interactive Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94)
+[Portfolio page](https://rogarzag.github.io/projects/news-channel-program/) · [GitHub repository](https://github.com/rogarzag/business-analysis-use-case-modeling) · [Project report (PDF)](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/docs/News_Channel_Use_Cases_LinkedIn.pdf) · [Lucidchart diagram](https://lucid.app/lucidchart/7390e644-b2a4-4605-9f86-4769b1048ace/edit?viewport_loc=-1254%2C-430%2C3877%2C2181%2C0_0&invitationId=inv_35b30263-e9a3-411a-b19a-b6acc66fbd94) · [Use case diagram (PNG)](https://github.com/rogarzag/business-analysis-use-case-modeling/blob/main/diagrams/news-channel-use-case-original.png)
 
 ## Data Analytics Projects
 
@@ -68,7 +68,7 @@ Analyzed sales, profitability, conversion, retention, and a checkout A/B test us
 
 **Tools:** Python · SQL · Tableau · Statistical testing
 
-[View project repository](https://github.com/rogarzag/rappiplus-business-performance-analysis)
+[Portfolio page](https://rogarzag.github.io/projects/rappiplus/) · [GitHub repository](https://github.com/rogarzag/rappiplus-business-performance-analysis) · [Tableau dashboard](https://public.tableau.com/views/RappiPlusBusinessPerformanceDashboard/RappiPlusBusinessPerformanceStory?:language=es-ES&:display_count=n&:origin=viz_share_link) · [Analysis notebook](https://github.com/rogarzag/rappiplus-business-performance-analysis/blob/main/RappiPlus_Business_Performance_Portfolio.ipynb)
 
 ### Andes Capital | Real Estate Analysis
 
@@ -78,7 +78,7 @@ Built a Tableau story to examine revenue, property types, sales channels, custom
 
 **Tools:** Tableau · KPI analysis · Cohort analysis · Data storytelling
 
-[View project repository](https://github.com/rogarzag/andes-capital-real-estate-analysis)
+[Portfolio page](https://rogarzag.github.io/projects/andes-capital/) · [GitHub repository](https://github.com/rogarzag/andes-capital-real-estate-analysis) · [Tableau dashboard](https://public.tableau.com/views/AndesCapitalRealEstateDashboard/AndesCapitalRealEstateAnalysis?:language=es-ES&:display_count=n&:origin=viz_share_link) · [Analysis notebook](https://github.com/rogarzag/andes-capital-real-estate-analysis/blob/main/notebook/andes_capital_real_estate_analysis.ipynb)
 
 ### Andes Retail | Commercial Performance Dashboard
 
@@ -88,11 +88,11 @@ Compared 2024–2025 sales through an interactive Tableau dashboard. Revenue dec
 
 **Tools:** Tableau · KPI analysis · Dashboard design · Business communication
 
-[View project repository](https://github.com/rogarzag/andes-retail-commercial-performance)
+[Portfolio page](https://rogarzag.github.io/projects/andes-retail/) · [GitHub repository](https://github.com/rogarzag/andes-retail-commercial-performance) · [Tableau dashboard](https://public.tableau.com/app/profile/rodrigo.garza.garc.a/viz/Andes_Retail_Commercial_Performance_2024_2025/Dashboard-Overview) · [Analysis notebook](https://github.com/rogarzag/andes-retail-commercial-performance/blob/main/andes_retail_commercial_performance_portfolio.ipynb)
 
 ## Additional projects
 
-### A/B Landing Page Experiment
+### A/B Landing Page Experiment | Conversion Analysis
 
 Evaluated two landing page versions using hypothesis testing.
 
@@ -100,9 +100,9 @@ Evaluated two landing page versions using hypothesis testing.
 
 **Skills:** Python, Pandas, A/B Testing, Hypothesis Testing, Welch's t-test, Z-test, Chi-square, Cramér's V.
 
-[View project repository](https://github.com/rogarzag/ab-landing-page-experiment)
+[Portfolio page](https://rogarzag.github.io/projects/ab-landing-page/) · [GitHub repository](https://github.com/rogarzag/ab-landing-page-experiment) · [Analysis notebook](https://github.com/rogarzag/ab-landing-page-experiment/blob/main/ab_landing_page_experiment.ipynb) · [Dataset (CSV)](https://github.com/rogarzag/ab-landing-page-experiment/blob/main/data/landing_experiment.csv)
 
-### NovaRetail+ Customer Behavior and Revenue Drivers
+### NovaRetail+ | Customer Behavior & Revenue Drivers
 
 Analyzed customer behavior across 15,000 e-commerce customers using correlation methods.
 
@@ -112,7 +112,7 @@ Analyzed customer behavior across 15,000 e-commerce customers using correlation 
 
 [View project repository](https://github.com/rogarzag/novaretail-customer-behavior)
 
-### ConnectaTel Customer Usage & Segmentation Analysis
+### ConnectaTel | Customer Usage & Segmentation Analysis
 
 Analyzed telecom customer behavior using Python and Pandas.
 
@@ -122,7 +122,7 @@ Analyzed telecom customer behavior using Python and Pandas.
 
 [View project repository](https://github.com/rogarzag/connectatel-customer-usage-analysis)
 
-### Urban Mobility and Economic Analysis in Latin America
+### Latin American Urban Mobility | Traffic & Economic Analysis
 
 Analyzed 2024 traffic and economic data from 15 Latin American cities.
 
@@ -134,7 +134,7 @@ Analyzed 2024 traffic and economic data from 15 Latin American cities.
 
 ---
 
-### MercadoLibre Funnel and Retention Analysis
+### MercadoLibre | Funnel & Retention Analysis
 
 Used SQL to assess the conversion funnel and D7, D14, D21, and D28 retention across ten Latin American countries. The largest funnel loss was a **65.89-percentage-point drop** from product selection (76.90%) to add-to-cart (11.01%). In the January 1–6 cohort, retention declined from **86.2% at D7 to 56.2% at D14**.
 
@@ -142,11 +142,11 @@ Used SQL to assess the conversion funnel and D7, D14, D21, and D28 retention acr
 
 **Skills:** SQL, CTEs, funnel analysis, cohort analysis, retention analysis and data validation.
 
-[View project repository](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis)
+[Portfolio page](https://rogarzag.github.io/projects/mercadolibre/) · [GitHub repository](https://github.com/rogarzag/mercadolibre-funnel-retention-analysis) · [Google Sheets analysis](https://docs.google.com/spreadsheets/d/1j0Ln3y3g58qErGPMvOTCVIhawGD_T5hNhAE8IP0xCd0/edit?usp=drive_link)
 
 ---
 
-### Financial Performance Analysis with SQL
+### Financial Performance | SQL Analysis
 
 Compared revenue, costs, gross profit, margins and marketing ROI across six countries.
 
@@ -160,7 +160,7 @@ Compared revenue, costs, gross profit, margins and marketing ROI across six coun
 
 ---
 
-### Walmart Sales Executive Summary
+### Walmart Sales | Executive Summary
 
 Analyzed Walmart’s 2012 weekly sales using sales per square meter and department share.
 
@@ -174,7 +174,7 @@ Analyzed Walmart’s 2012 weekly sales using sales per square meter and departme
 
 ---
 
-### Sales Data Cleaning and Analysis in Google Sheets
+### Sales Data Cleaning | Google Sheets Analysis
 
 Cleaned and standardized a quarterly sales dataset and created an executive summary with key commercial metrics.
 
